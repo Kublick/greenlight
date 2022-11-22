@@ -1,0 +1,1 @@
+migrate -path=./migrations -database="postgres://dbuser:pass1234@10.10.1.19/greenlight?sslmode=disable" up   
